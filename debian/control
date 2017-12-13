@@ -9,5 +9,5 @@ Homepage: http://www.deepin.org/
 Package: deepin-sound-theme
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: deepin sound theme
+Description: Deepin sound
  This package contains the deepin sound theme.

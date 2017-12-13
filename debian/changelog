@@ -1,5 +1,5 @@
-deepin-sound-theme (0.0~git20151101-1) unstable; urgency=low
+deepin-sound-theme (15.10.2-1) unstable; urgency=low
 
-  * Initial release.
+  * Auto Version update.
 
- -- Deepin Packages Builder <packages@linuxdeepin.com>  Mon, 24 Aug 2015 19:03:01 +0800
+ -- shuttle <shuttle@deepin.com>  Tue, 31 Oct 2017 03:10:37 +0000
