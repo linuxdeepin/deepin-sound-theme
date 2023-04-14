@@ -26,4 +26,4 @@ make install
 
 ## License
 
-Deepin GoLang Library的许可协议为GPLv3或任何后续版本。
+Deepin GoLang Library的许可协议为[GPLv3](LICENSE)或任何后续版本。
