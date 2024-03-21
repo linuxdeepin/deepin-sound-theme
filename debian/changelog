@@ -1,3 +1,9 @@
+deepin-sound-theme (15.10.7) unstable; urgency=medium
+
+  * update debian source format
+
+ -- hudeng <hudeng@deepin.org>  Thu, 21 Mar 2024 12:26:28 +0800
+
 deepin-sound-theme (15.10.2-1) unstable; urgency=low
 
   * Auto Version update.
