@@ -10,7 +10,7 @@ make install
 
 ## Getting help
 
-Any usage issues can ask for help via
+Any usage issues can ask for help via.
 
 * [Gitter](https://gitter.im/orgs/linuxdeepin/rooms)
 * [IRC channel](https://webchat.freenode.net/?channels=deepin)
@@ -26,4 +26,4 @@ We encourage you to report issues and contribute changes.
 
 ## License
 
-Deepin GoLang Library is licensed under [GPLv3](LICENSE) or any later version.
+Deepin Sound Theme is licensed under [GPLv3](LICENSE) or any later version.
